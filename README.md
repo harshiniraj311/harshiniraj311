@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Harshini Raj :)
 - 👀 I’m pursuing computer science engineering
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning cloud computing
 - 📫 Contact: **harshiniraj311@gmail.com**
